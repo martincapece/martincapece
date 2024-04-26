@@ -10,8 +10,6 @@
 
 ***
 
-<img align="right" height="270px" alt="GIF" src="https://avatars.githubusercontent.com/u/88325745" />
-
 ### Sobre mi
 - 💻 Me dedico al Frontend y estoy aprendiendo sobre backend
 - 🥅 2024 Metas: Fullstack Developer
