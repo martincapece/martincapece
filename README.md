@@ -1,13 +1,5 @@
 <h1 align="center"><b>¡Hola, Soy Martin Capece!</b></h1>
 
-***
-
-<div align="center">
-  <h4><b><i>"La Vida Es Una Programación"</i></b></h4>
-</div>
-
-***
-
 ### Sobre mi
 - 💻 Me dedico al Frontend y estoy aprendiendo sobre backend
 - 🥅 2024 Metas: Fullstack Developer
