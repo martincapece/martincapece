@@ -2,7 +2,7 @@
 
 ### Sobre mi
 - 💻 Me dedico al Frontend y estoy aprendiendo sobre backend
-- 🥅 2024 Metas: Fullstack Developer
+- 🥅 2025 Metas: Fullstack Developer
 - 📖 Estoy estudiando una Licenciatura en Gestion de Tecnologia de la Informacion en UADE (CABA). 
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 💬 Preguntame lo que quieras :smile:
